@@ -6,6 +6,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void Start()
     {
         Console.WriteLine("Branch2!");
+        Console.WriteLine("Branch1!");
     }
 
     // Update is called once per frame
